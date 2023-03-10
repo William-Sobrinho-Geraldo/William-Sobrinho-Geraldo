@@ -9,8 +9,6 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)
 
-<br/>
-
 ## Tecnologias, linguagens e frameworks
 
 <div style = "display : inline_block">
