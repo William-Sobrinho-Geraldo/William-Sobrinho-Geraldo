@@ -21,15 +21,17 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     
-
-     
 </div>
-<img align="center" alt="html5" src="https://img.shields.io/badge/Retrofit-%20-green">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Picasso-%20-orange">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Jetpack%20Compose-%20-red">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Groupie-%20-yellow">
-<img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
+
+<div style = "display : inline_block">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Retrofit-%20-green">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Picasso-%20-orange">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Jetpack%20Compose-%20-red">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Groupie-%20-yellow">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
+
+</div>
 
 <br/>
 
