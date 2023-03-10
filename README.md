@@ -2,8 +2,8 @@
 "Apaixonado por tecnologia, programação, física e investimentos"
 
 ## Resumo Educacional
-        Me chamo William, sou uma pessoa curiosa e gosto de aprender novas habilidades. Formado em física pela Universidade do Estado do Rio de Janeir (UERJ) durante a faculdade comecei a ter contato com análise de dados e elaboração de relatórios. Entendi a importância do trabalho em equipe nas reuniões diárias para estudo com os amigos na biblioteca , esses encontros eram fundamentais para a solução dos problemas mais difíceis de cada matéria. Logo no primeiro período já tivemos contato com linguagem de programação e lógica. 
-        Durante a faculdade comecei a me interessar por de encontrar padrões em gráficos dos mais variados tipos de investimentos. Comecei com planejamento/criação de estratégia de investimentos na plataforma MetaTrader5 na qual eu usava um robô para automatizar as operações e testá-las no gráfico dos anos passados e ver se o resultado seria lucro ou prejuízo. Nessa época, comecei a desenvolver minha comunicação e meu lado autodidata, pois não havia professor que ensinasse a configurar o robô, então eu pesquisava na comunidade do Discord para solucionar os erros que apareciam. 
+Me chamo William, sou uma pessoa curiosa e gosto de aprender novas habilidades. Formado em física pela Universidade do Estado do Rio de Janeir (UERJ) durante a faculdade comecei a ter contato com análise de dados e elaboração de relatórios. Entendi a importância do trabalho em equipe nas reuniões diárias para estudo com os amigos na biblioteca , esses encontros eram fundamentais para a solução dos problemas mais difíceis de cada matéria. Logo no primeiro período já tivemos contato com linguagem de programação e lógica. <br/>
+Durante a faculdade comecei a me interessar por de encontrar padrões em gráficos dos mais variados tipos de investimentos. Comecei com planejamento/criação de estratégia de investimentos na plataforma MetaTrader5 na qual eu usava um robô para automatizar as operações e testá-las no gráfico dos anos passados e ver se o resultado seria lucro ou prejuízo. Nessa época, comecei a desenvolver minha comunicação e meu lado autodidata, pois não havia professor que ensinasse a configurar o robô, então eu pesquisava na comunidade do Discord para solucionar os erros que apareciam. 
 
 <br/>
 
@@ -24,20 +24,20 @@
 
      
 </div>
-<img align="center" alt="html5" src="    https://img.shields.io/badge/Retrofit-%20-green">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Retrofit-%20-green">
 <img align="center" alt="html5" src="https://img.shields.io/badge/Picasso-%20-orange">
-<img align="center" alt="html5" src="    https://img.shields.io/badge/Jetpack%20Compose-%20-red">
-<img align="center" alt="html5" src="    https://img.shields.io/badge/Koin-%20-blue">
-<img align="center" alt="html5" src="    https://img.shields.io/badge/Groupie-%20-yellow">
-<img align="center" alt="html5" src="    https://img.shields.io/badge/Koin-%20-blue">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Jetpack%20Compose-%20-red">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Groupie-%20-yellow">
+<img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
 
 <br/>
 
 ## Resumo Profissional
-        Atualmente estudo a linguagem de programação Kotlin para desenvolver apps em Android nativo, escrever códigos no Android Studio e ver aquilo refletir em ações no meu próprio celular na palma da minha mão traz uma satisfação pessoal muito boa. Tenho noções básicas em outras linguagens como Python e JavaScrip mas acabo me encontrando cada vez mais no desenvolvimento em Kotlin para Android nativo.
-        Conclusão: Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes, evoluir em conjunto. Desejo encontrat uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
+Atualmente estudo a linguagem de programação Kotlin para desenvolver apps em Android nativo, escrever códigos no Android Studio e ver aquilo refletir em ações no meu próprio celular na palma da minha mão traz uma satisfação pessoal muito boa. Tenho noções básicas em outras linguagens como Python e JavaScrip mas acabo me encontrando cada vez mais no desenvolvimento em Kotlin para Android nativo.<br/>
+Conclusão: Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes, evoluir em conjunto. Desejo encontrat uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
 
-
+<br/>
 
 ## Últimos aplicativos criados:
 - [App Gorjeta ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Calcula o percentual de gorgeta de acordo com o valor da conta 💰
