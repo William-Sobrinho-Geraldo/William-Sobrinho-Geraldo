@@ -9,6 +9,7 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)
 
+
 ## Tecnologias, linguagens e frameworks
 
 <div style = "display : inline_block">
@@ -17,9 +18,10 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
     <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white">
-    
+    <img align="center" alt="html5" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white">
+
 </div>
+
 
 <div style = "display : inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Retrofit-%20-green">
@@ -27,8 +29,9 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
     <img align="center" alt="html5" src="https://img.shields.io/badge/Jetpack%20Compose-%20-red">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
     <img align="center" alt="html5" src="https://img.shields.io/badge/Groupie-%20-yellow">
-    <img align="center" alt="html5" src="https://img.shields.io/badge/Koin-%20-blue">
-
+    <img align="center" alt="html5" src="https://img.shields.io/badge/Coroutines-%20-green">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/ROOM-%20-orange">
+    <img align="center" alt="html5" src="https://img.shields.io/badge/HTTPS-%20-red">
 </div>
 
 <br/>
@@ -41,8 +44,9 @@ Conclusão: Procuro uma oportunidade de trabalhar em equipe, um lugar para firma
 
 ## Últimos aplicativos criados:
 - [App Gorjeta ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Calcula o percentual de gorgeta de acordo com o valor da conta 💰
-- [App Mega Sena ->](https://github.com/William-Sobrinho-Geraldo/App_megaSena) Sorteia aleatoriamente uma quantidade de números específica 💸
 - [App Aluvery ->](https://github.com/William-Sobrinho-Geraldo/Aluvery) Aplicativo de lista de produtos e secções para estudo e desenvolvimento de conceitos do Jetpack Compose  📜
+- [App Orgs ->](https://github.com/William-Sobrinho-Geraldo/Orgs) Aplicativo destinado a prática de persistência de dados com ROOM (SQLite) e migrations de banco de dados  🗃️
+- [App Mega Sena ->](https://github.com/William-Sobrinho-Geraldo/App_megaSena) Sorteia aleatoriamente uma quantidade de números específica 💸
 
 <br/>
 
@@ -60,3 +64,5 @@ super mercados. Utilizamos o github para versionamento de código e Trello para 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://www.gmail.com.br/william.devmobile@gmail.com)
 [![Whatsapp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white
 )](https://wa.me/5521968182721)
+
+
