@@ -32,6 +32,7 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
     <img align="center" alt="html5" src="https://img.shields.io/badge/Coroutines-%20-green">
     <img align="center" alt="html5" src="https://img.shields.io/badge/ROOM-%20-orange">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTTPS-%20-red">
+    
 </div>
 
 <br/>
@@ -48,10 +49,13 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 <br/>
 
 ## Últimos aplicativos criados:
-- [App Gorjeta ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Calcula o percentual de gorgeta de acordo com o valor da conta 💰
-- [App Aluvery ->](https://github.com/William-Sobrinho-Geraldo/Aluvery) Aplicativo de lista de produtos e secções para estudo e desenvolvimento de conceitos do Jetpack Compose  📜
-- [App Orgs ->](https://github.com/William-Sobrinho-Geraldo/Orgs) Aplicativo destinado a prática de persistência de dados com ROOM (SQLite) e migrations de banco de dados  🗃️
-- [App Mega Sena ->](https://github.com/William-Sobrinho-Geraldo/App_megaSena) Sorteia aleatoriamente uma quantidade de números específica 💸
+
+- [App Gorjeta <img src = "https://user-images.githubusercontent.com/111225477/236838826-772f0d0a-16d9-4d9b-904e-8dfbe260c29c.svg" width = "15px">  ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Publicado na playStore , o App calcula o percentual de gorgeta de acordo com o valor da conta em um restaurante. 💰
+- [App My market List - Android Nativo ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_Android) Projeto de lista de compras que tem como objetivo comparar o valor de uma lista em diferentes super mercados.   🛒
+- [App My market List - React Native ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_React_Native) Refatoração do projeto My market list para React Native, decidimos migrar para o desenvolvimento Híbrido a fim de ter uma escalabilidade maior do projeto.   🛒🛒
+- [App Aluvery ->](https://github.com/William-Sobrinho-Geraldo/Aluvery) Aplicativo de lista de produtos e secções para estudo e desenvolvimento de conceitos do Jetpack Compose.  📜
+- [App Orgs ->](https://github.com/William-Sobrinho-Geraldo/Orgs) Aplicativo destinado a prática de persistência de dados com ROOM (SQLite) e migrations de banco de dados.  🗃️
+- [App Mega Sena ->](https://github.com/William-Sobrinho-Geraldo/App_megaSena) Sorteia aleatoriamente uma quantidade de números específica.  💸
 
 <br/>
 
