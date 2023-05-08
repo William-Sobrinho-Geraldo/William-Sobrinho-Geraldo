@@ -1,14 +1,28 @@
 # Olá! Eu sou o William Sobrinho  ✋🙂
 "Apaixonado por tecnologia, programação, física e investimentos"
 
-## Resumo Educacional
-Me chamo William, sou uma pessoa curiosa e gosto de aprender novas habilidades. Formado em física pela Universidade do Estado do Rio de Janeir (UERJ) durante a faculdade comecei a ter contato com análise de dados e elaboração de relatórios. Entendi a importância do trabalho em equipe nas reuniões diárias para estudo com os amigos na biblioteca , esses encontros eram fundamentais para a solução dos problemas mais difíceis de cada matéria. Logo no primeiro período já tivemos contato com linguagem de programação e lógica. <br/>
-Durante a faculdade comecei a me interessar por de encontrar padrões em gráficos dos mais variados tipos de investimentos. Comecei com planejamento/criação de estratégia de investimentos na plataforma MetaTrader5 na qual eu usava um robô para automatizar as operações e testá-las no gráfico dos anos passados e ver se o resultado seria lucro ou prejuízo. Nessa época, comecei a desenvolver minha comunicação e meu lado autodidata, pois não havia professor que ensinasse a configurar o robô, então eu pesquisava na comunidade do Discord para solucionar os erros que apareciam. 
+## Resumo Profissional
+Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
+<br/>
+
+Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
+<br/>
+
+Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
 
 <br/>
 
 ![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)
 
+## Últimos aplicativos criados:
+
+- [App Gorjeta <img src = "https://user-images.githubusercontent.com/111225477/236838826-772f0d0a-16d9-4d9b-904e-8dfbe260c29c.svg" width = "15px">  ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Publicado na playStore , o App calcula o percentual de gorgeta de acordo com o valor da conta em um restaurante. 💰
+- [App My market List - Android Nativo ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_Android) Projeto de lista de compras que tem como objetivo comparar o valor de uma lista em diferentes super mercados.   🛒
+- [App My market List - React Native ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_React_Native) Refatoração do projeto My market list para React Native, decidimos migrar para o desenvolvimento Híbrido a fim de ter uma escalabilidade maior do projeto.   🛒🛒
+- [App Aluvery ->](https://github.com/William-Sobrinho-Geraldo/Aluvery) Aplicativo de lista de produtos e secções para estudo e desenvolvimento de conceitos do Jetpack Compose.  📜
+- [App Orgs ->](https://github.com/William-Sobrinho-Geraldo/Orgs) Aplicativo destinado a prática de persistência de dados com ROOM (SQLite) e migrations de banco de dados.  🗃️
+- [App Mega Sena ->](https://github.com/William-Sobrinho-Geraldo/App_megaSena) Sorteia aleatoriamente uma quantidade de números específica.  💸
+<br/>
 
 ## Tecnologias, linguagens e frameworks
 
@@ -37,25 +51,12 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
 
 <br/>
 
-## Resumo Profissional
-Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
-<br/>
+## Resumo Educacional
+Me chamo William, sou uma pessoa curiosa e gosto de aprender novas habilidades. Formado em física pela Universidade do Estado do Rio de Janeir (UERJ) durante a faculdade comecei a ter contato com análise de dados e elaboração de relatórios. Entendi a importância do trabalho em equipe nas reuniões diárias para estudo com os amigos na biblioteca , esses encontros eram fundamentais para a solução dos problemas mais difíceis de cada matéria. Logo no primeiro período já tivemos contato com linguagem de programação e lógica. <br/>
+Durante a faculdade comecei a me interessar por de encontrar padrões em gráficos dos mais variados tipos de investimentos. Comecei com planejamento/criação de estratégia de investimentos na plataforma MetaTrader5 na qual eu usava um robô para automatizar as operações e testá-las no gráfico dos anos passados e ver se o resultado seria lucro ou prejuízo. Nessa época, comecei a desenvolver minha comunicação e meu lado autodidata, pois não havia professor que ensinasse a configurar o robô, então eu pesquisava na comunidade do Discord para solucionar os erros que apareciam. 
 
-Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
-<br/>
 
-Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
 
-<br/>
-
-## Últimos aplicativos criados:
-
-- [App Gorjeta <img src = "https://user-images.githubusercontent.com/111225477/236838826-772f0d0a-16d9-4d9b-904e-8dfbe260c29c.svg" width = "15px">  ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Publicado na playStore , o App calcula o percentual de gorgeta de acordo com o valor da conta em um restaurante. 💰
-- [App My market List - Android Nativo ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_Android) Projeto de lista de compras que tem como objetivo comparar o valor de uma lista em diferentes super mercados.   🛒
-- [App My market List - React Native ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_React_Native) Refatoração do projeto My market list para React Native, decidimos migrar para o desenvolvimento Híbrido a fim de ter uma escalabilidade maior do projeto.   🛒🛒
-- [App Aluvery ->](https://github.com/William-Sobrinho-Geraldo/Aluvery) Aplicativo de lista de produtos e secções para estudo e desenvolvimento de conceitos do Jetpack Compose.  📜
-- [App Orgs ->](https://github.com/William-Sobrinho-Geraldo/Orgs) Aplicativo destinado a prática de persistência de dados com ROOM (SQLite) e migrations de banco de dados.  🗃️
-- [App Mega Sena ->](https://github.com/William-Sobrinho-Geraldo/App_megaSena) Sorteia aleatoriamente uma quantidade de números específica.  💸
 
 <br/>
 
