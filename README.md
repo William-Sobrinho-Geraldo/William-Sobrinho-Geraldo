@@ -37,8 +37,9 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
 <br/>
 
 ## Resumo Profissional
-Atualmente estudo a linguagem de programação Kotlin para desenvolver apps em Android nativo, escrever códigos no Android Studio e ver aquilo refletir em ações no meu próprio celular na palma da minha mão traz uma satisfação pessoal muito boa. Tenho noções básicas em outras linguagens como Python e JavaScrip mas acabo me encontrando cada vez mais no desenvolvimento em Kotlin para Android nativo.<br/>
-Conclusão: Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes, evoluir em conjunto. Desejo encontrat uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
+Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
+Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido.
+Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
 
 <br/>
 
