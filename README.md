@@ -38,7 +38,11 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
 
 ## Resumo Profissional
 Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
-Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido.
+<br/>
+
+Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
+<br/>
+
 Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
 
 <br/>
