@@ -12,9 +12,9 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 
 <br/>
 
-[![William's GitHub stats](https://github-readme-stats-ruby-one.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/William-Sobrinho-Geraldo)
+[![William's GitHub stats](william-sobrinho-geraldo.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/William-Sobrinho-Geraldo)
 
-[![Top Langs](https://github-readme-stats-ruby-one.vercel.app/api/top-langs/?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](william-sobrinho-geraldo.vercel.app/api/top-langs/?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Últimos aplicativos criados:
 
