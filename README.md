@@ -12,9 +12,7 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 
 <br/>
 
-[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo)](https://github.com/William-Sobrinho-Geraldo)
-
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)
+[![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/William-Sobrinho-Geraldo)
 
 ## Últimos aplicativos criados:
 
