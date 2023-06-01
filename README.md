@@ -14,6 +14,8 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 
 [![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/William-Sobrinho-Geraldo)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Últimos aplicativos criados:
 
 - [App Gorjeta <img src = "https://user-images.githubusercontent.com/111225477/236838826-772f0d0a-16d9-4d9b-904e-8dfbe260c29c.svg" width = "15px">  ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Publicado na playStore , o App calcula o percentual de gorgeta de acordo com o valor da conta em um restaurante. 💰
