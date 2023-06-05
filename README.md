@@ -11,9 +11,11 @@ Sou uma pessoa curiosa e gosto de aprender novas habilidades. Formado em física
 Durante a faculdade comecei a me interessar por de encontrar padrões em gráficos dos mais variados tipos de investimentos. Comecei com planejamento/criação de estratégia de investimentos na plataforma MetaTrader5 na qual eu usava um robô para automatizar as operações e testá-las no gráfico dos anos passados e ver se o resultado seria lucro ou prejuízo. Nessa época, comecei a desenvolver minha comunicação e meu lado autodidata, pois não havia professor que ensinasse a configurar o robô, então eu pesquisava na comunidade do Discord para solucionar os erros que apareciam. 
 
 <br/>
+<div align="center">
+<img width=55% heigth=195px src="https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight">
+<img width=38% heigth=10px src="https://github-readme-stats.vercel.app/api/top-langs/?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight">
 
-![William's GitHub stats](https://github-readme-stats.vercel.app/api?username=William-Sobrinho-Geraldo&show_icons=true&theme=tokyonight)
-
+</div>
 
 ## Tecnologias, linguagens e frameworks
 
