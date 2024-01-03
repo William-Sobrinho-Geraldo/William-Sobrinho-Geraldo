@@ -6,10 +6,13 @@
 "Apaixonado por tecnologia, programação, física e investimentos"
 
 ## Resumo Profissional
-Sou um desenvolvedor mobile com um aplicativo publicado na Play Store, experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
+Sou um Desenvolvedor Android que atualmente colabora com a empresa Crosoften e tenho um aplicativo publicado na Play Store. Também tenho experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
 <br/>
 
 Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
+<br/>
+
+Acredito que o respeito e a empatia são a chave para construir um ambiente de trabalho favorável a resolução de problemas e entrega de resultados. Em 2022, atuei como Assistente Comercial no setor PJ do Banco Santander, no qual tive a oportunidade de desenvolver minha capacidade comunicativa, devido à necessidade de contato com diversos setores do banco para solucionar problemas dos clientes.
 <br/>
 
 Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e evoluir em conjunto. Desejo encontrar uma instituição que procure um colaborador motivado a aprender novas funções para solucionar problemas, dar manutenção e criar novos aplicativos. Enquanto essa oportunidade não aparece, venho criando apps por conta própria para aprimorar minhas habilidades, veja alguns exemplos abaixo:
