@@ -1,15 +1,15 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=4278e3&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ad4a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+William+Sobrinho;Tenho+29+anos+e+moro+em+Nova+Iguaçú,+RJ;Sou+dev+mobile+graduado+em+Física+pela+UERJ;Seja+bem+vindo+ao+meu+portfólio!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=2ad4a4&size=35&center=true&vCenter=true&width=1000&lines=Olá,+Eu+sou+o+William+Sobrinho;Tenho+30+anos+e+moro+em+Nova+Iguaçú,+RJ;Sou+dev+mobile+graduado+em+Física+pela+UERJ;Seja+bem+vindo+ao+meu+portfólio!+:%29)](https://git.io/typing-svg)
 
 # Olá! Eu sou o William Sobrinho  ✋🙂
 "Apaixonado por tecnologia, programação, física e investimentos"
 
 ## Resumo Profissional
-Sou um Desenvolvedor Android que atualmente colabora com a empresa Crosoften e tenho um aplicativo publicado na Play Store. Também tenho experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
+Sou um Desenvolvedor Android que atualmente colabora com a empresa Crosoften e tenho um aplicativo publicado na Play Store. Tenho experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
 <br/>
 
-Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento mobile híbrido. 
+Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento de aplicativos nativos para Android. 
 <br/>
 
 Acredito que o respeito e a empatia são a chave para construir um ambiente de trabalho favorável a resolução de problemas e entrega de resultados. Em 2022, atuei como Assistente Comercial no setor PJ do Banco Santander, no qual tive a oportunidade de desenvolver minha capacidade comunicativa, devido à necessidade de contato com diversos setores do banco para solucionar problemas dos clientes.
@@ -27,6 +27,7 @@ Procuro uma oportunidade de trabalhar em equipe, um lugar para firmar raízes e 
 
 - [App Gorjeta <img src = "https://user-images.githubusercontent.com/111225477/236838826-772f0d0a-16d9-4d9b-904e-8dfbe260c29c.svg" width = "15px">  ->](https://github.com/William-Sobrinho-Geraldo/Calculador-Gorjetas) Publicado na playStore , o App calcula o percentual de gorgeta de acordo com o valor da conta em um restaurante. 💰
 - [App Quiz Dynamox](https://github.com/William-Sobrinho-Geraldo/Quiz_DYNAMOX) - App com requisições API para buscar aleatoriamente perguntas e respostas do servidor da empresa Dynamox e mostrar na tela. Também corrige a alternativa escolhita através de um POST () feito pelo Retrofit. 💻
+- [App Joga da Velha ->](https://github.com/William-Sobrinho-Geraldo/jogo_da_velha) App para jogar jogo da velha com um Bot ou outro jogador. Usa persistência de dados locais com a biblioteca ROOM e Testes Unitários com JUnit  ❌❌❌   🔘🔘🔘  
 - [App My market List - Android Nativo ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_Android) Projeto de lista de compras que tem como objetivo comparar o valor de uma lista em diferentes super mercados.   🛒
 - [App My market List - React Native ->](https://github.com/William-Sobrinho-Geraldo/My_Market_List_React_Native) Refatoração do projeto My market list para React Native, decidimos migrar para o desenvolvimento Híbrido a fim de ter uma escalabilidade maior do projeto.   🛒🛒
 - [App Aluvery ->](https://github.com/William-Sobrinho-Geraldo/Aluvery) Aplicativo de lista de produtos e secções para estudo e desenvolvimento de conceitos do Jetpack Compose.  📜
@@ -76,6 +77,9 @@ Durante a faculdade comecei a me interessar por de encontrar padrões em gráfic
 )  Atualmente trabalho em conjunto com outros dois colegas de faculdade, [Diogo Agra](https://github.com/diogoalexandria) e [Tatiane Correa](https://github.com/taticorrea), na elaboração de um aplicativo
 de lista de compras que tem por objetivo comparar o valor total de uma lista de compras em diferentes
 super mercados. Utilizamos o github para versionamento de código e Trello para organizar as tarefas.
+
+- [Projeto Voluntário Code Club Brasil ->](https://www.codeclubbrasil.org.br/)  Atuando no mesmo repositório Android com dois colegas de LinkedIn, [Valter Gabriel](https://www.linkedin.com/in/valter-gabriel/) e [Pedro Cerqueira](https://www.linkedin.com/in/pedrocerqueiras/), na elaboração de um aplicativo que faz a conexão entre os voluntários do projeto com os líderes de cada setor. Utilizamos o github para versionamento de código e Notion para organizar as tarefas.
+   PS: Atualmente esse projeto encontra-se em Stand By aguardando o progresso do backend
 
 ## Contatos e redes sociais:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whit)](www.linkedin.com/in/williamsobrinho-devandroid)
