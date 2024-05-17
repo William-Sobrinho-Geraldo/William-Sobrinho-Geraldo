@@ -6,7 +6,7 @@
 "Apaixonado por tecnologia, programação, física e investimentos"
 
 ## Resumo Profissional
-Sou um Desenvolvedor Android que atualmente colabora com a empresa Crosoften e tenho um aplicativo publicado na Play Store. Tenho experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
+Sou um Desenvolvedor Android que atualmente colabora com a empresa Crosoften desde Setembro de 2023 e também já tenho um aplicativo publicado na Play Store. Tenho experiência no desenvolvimento de Apps nativos em Android ou híbridos em React Native. Formado em Física pela UERJ, acostumei-me a buscar a solução de problemas de maneira autônoma e determinada. Atualmente atuo na construção do App My market list em conjunto com uma equipe de programadores no qual utilizamos o Github para versionamento de código. Temos reuniões semanais como o diretor do projeto afim de estruturar os objetivos da semana.
 <br/>
 
 Tenho noções básicas em Python mas acabo me encontrando cada vez mais no desenvolvimento de aplicativos nativos para Android. 
